@@ -15,7 +15,7 @@ h6{color:white
 }
 
 body{
-    background-image:  url=("https://perfilba.com.br/wp-content/uploads/2017/12/Fundo-azul-300x225.jpg");
+    background-image:  url("https://perfilba.com.br/wp-content/uploads/2017/12/Fundo-azul-300x225.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
