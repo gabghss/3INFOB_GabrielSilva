@@ -1,0 +1,32 @@
+p{color:white
+
+}
+h1{color: white
+}
+h2{color: yellow
+}
+h4{color: rgb(138, 127, 127)
+}
+h5{color: white
+}
+h3{color: white
+}
+h6{color:white
+}
+
+body{
+    background-image:  url("https://p4.wallpaperbetter.com/wallpaper/231/113/301/background-solid-glare-light-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.botton{
+    background-color:blue
+    color= white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
